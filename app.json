@@ -1,0 +1,34 @@
+{
+  "id": "9977b1fa-46ba-40a0-bfea-58132b57353a",
+  "name": "VendorPerformance",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "Vendor Performance Reporting",
+  "description": "Vendor Performance Reporting",
+  "privacyStatement": "https://my.company.com/privacy",
+  "EULA": "https://my.company.com/eula",
+  "help": "https://my.company.com/help",
+  "url": "https://my.company.com/",
+  "logo": "img/BC-Logo.png",
+  "contextSensitiveHelpUrl": "https://docs.yourcompany.com/yourappname",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 10050600,
+      "to": 10050649
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}
